@@ -4,3 +4,12 @@ Este repositorio contiene todas las actividades realizadas en el grupo de comput
  <p align="center">
   <img src="imagenes/logo.png" width="300px" height="300px"/>
 </p>
+
+La siguiente lista contiene instrucciones para acceder a la información del repositorio:
+
+ <ul>
+  <li>El directorio de imagenes contiene las imágenes relevantes para las actividades que se hicieron en el curso (gráficas, diagramas, etc.). </li>
+  <li>El directorio de soluciones contiene las soluciones de las diez tareas que se encargaron a lo largo del curso. </li>
+</ul> 
+
+ 
